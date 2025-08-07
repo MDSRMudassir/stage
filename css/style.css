@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('/fonts/SF-Pro-Text-Font-Family/SF-Pro-Text-Bold.otf') format('otf');
+  font-weight: 800;
+  font-style: normal;
+}
+
+.hero-01-title,.reveal-type,.opposite,.marquee__text{
+    font-family: MyFont, sans-serif;
+}
